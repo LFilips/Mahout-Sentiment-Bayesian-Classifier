@@ -55,9 +55,6 @@ public class SentimentClassifier {
             createBagOfWords(sentimentDictionary, bagOfWordDirectories);
 
 
-            //TODO QUA DOVREI INSERIRE LA CREAZIONE DEL MODELLO DA CODICE
-
-
             String model = "resources/model";
             String trainingSet = "resources/bagOfWord/tf-vectors";
             String labelIndex = "resources/labelindex/labelindex";
