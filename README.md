@@ -6,10 +6,22 @@ Repository that implement Sentiment Analysis using a Naive Bayes Classifier, usi
 
 The Bayesian Classifier need a Dictionary file, in which each word has a sentiment associated, this is an example:
 
+
+The example is in italian language:
+
 positivo,bello
 positivo,intelligente
 negativo,brutto
 neutrale,sedia
+
+This is the same in english:
+
+positive,good
+positive,nice
+positive,smart
+negative,ugly
+negative,bad
+neutral,chair
 
 
 These word will we used for training a model, and then used to classify new text.
