@@ -9,19 +9,19 @@ The Bayesian Classifier need a Dictionary file, in which each word has a sentime
 
 The example is in italian language:
 
-positivo,bello
-positivo,intelligente
-negativo,brutto
-neutrale,sedia
+positivo,bello     
+positivo,intelligente     
+negativo,brutto     
+neutrale,sedia     
 
 This is the same in english:
 
-positive,good
-positive,nice
-positive,smart
-negative,ugly
-negative,bad
-neutral,chair
+positive,good     
+positive,nice     
+positive,smart     
+negative,ugly     
+negative,bad     
+neutral,chair     
 
 
 These word will we used for training a model, and then used to classify new text.
