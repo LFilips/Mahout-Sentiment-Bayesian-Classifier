@@ -26,5 +26,5 @@ neutral,chair
 
 These word will we used for training a model, and then used to classify new text.
 
-The project use term frequency vector for represent text, this is better in case of Sentiment Analysis,
+The project uses term frequency vector for represent text, this is better in case of Sentiment Analysis,
 for a simple label classification, like spam filter, tf-idf could be better.
